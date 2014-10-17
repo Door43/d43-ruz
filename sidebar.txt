@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ruz:home|Door43 (ruz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ruz|d43-ruz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ruz/archive/master.zip|d43-ruz.zip]]
+
+**Recent Changes**
+{{changes>ns = ruz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ruz|Ethnologue data]]
+
